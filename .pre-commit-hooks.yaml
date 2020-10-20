@@ -1,0 +1,6 @@
+- id: sqlfluff
+  name: sqlfluff
+  entry: sqlfluff
+  types: [text]
+  language: python
+  args: [lint]
